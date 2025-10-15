@@ -2,5 +2,12 @@
 public class Q32_PrintNumbersReverse {
     public static void main(String[] args) {
         
+
+        int n  = 56 ;
+        
+        for(int i = 1 ; i <= n ; i++)
+        {
+            System.out.println(i);
+        }
     }
 }

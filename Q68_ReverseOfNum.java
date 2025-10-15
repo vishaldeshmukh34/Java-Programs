@@ -6,7 +6,7 @@ public class Q68_ReverseOfNum {
       while(num != 0)
       
       {
-          System.out.print("The Reverse Of Digit : -" +num%10);
+          System.out.print("The Reverse Of Digit : - " +num%10);
           num = num / 10 ;
       }
     }
